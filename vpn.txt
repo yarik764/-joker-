@@ -1,2 +1,3 @@
+#profile-title: ☠️🃏joker🃏☠️
 vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@disk.api-yandex.net:2777?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%93%B2%20%F0%9F%94%8B%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%E2%84%9618
 vless://bea5fac6-9d02-46ec-ae2b-4e55f0d8293b@fastru.phantom.direct:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=fastru.phantom.direct&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&sid=9dbdad98826e0fe8&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
