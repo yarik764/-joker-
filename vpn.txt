@@ -32,7 +32,7 @@ vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@5.180.173.171:443?flow=xtls-rprx-vi
 
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%AE
 
-vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@g.ee.s3-rus.ru:443?type=grpc&security=reality&fp=edge&sni=www.microsoft.
+
 
 
 
