@@ -33,13 +33,8 @@ vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@5.180.173.171:443?flow=xtls-rprx-vi
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@212.41.10.228:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%AE
 
 vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@g.ee.s3-rus.ru:443?type=grpc&security=reality&fp=edge&sni=www.microsoft.
-com&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&sid=7a3f9e2b1c8d4f6a&spx=/&serviceName=grpc&mode=gun#%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%93%B6%20%F0%9F%8C%90%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%E2%84%963
 
-vless://09a012c8-67e9-4d92-9aa2-ecb025a786b3@5.188.115.226:9443?type=grpc&security=reality&fp=chrome&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&sid=00000000&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5B%D0%91%D0%A1%5D%20%2314
 
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%93%B6%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%202%20%D1%8510
-
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@5.188.114.73:18443?type=grpc&security=reality&fp=firefox&sni=id.pervye.ru&pbk=Pd6dRBePexH4bo6ojtFq3UdZO3G8585HQ1oVLjn-sFw&serviceName=ns&mode=gun#%F0%9F%87%B5%F0%9F%87%B1
 
 
 
