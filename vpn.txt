@@ -1,4 +1,4 @@
-#profile-title: ☠️🃏joker🃏☠️
+#profile-title: ☠️joker☠️
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20[*CIDR]
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20TG:%20AirLinkVPNBot%20%7C0365%7C
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%20-%20TG:%20AirLinkVPNBot%20%7C0368%7C
